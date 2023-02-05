@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Jhonatan Amaral.
 
-- 🌱 Estudo: Full Stack em Java-Script!
+- 🌱 Estudo: Html, CSS e Js. 
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: gosto de cachorros. 
 
