@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Jhonatan Amaral.
 
-- 🌱 Estudo: Html, CSS e Js. 
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: gosto de cachorros. 
 
