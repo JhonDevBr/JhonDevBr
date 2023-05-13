@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Jhonatan Amaral.
 Comecei a estudar programação no inicio do ano passado, como sempre amei tecnologia resolvi explorar esse mundo. Estou em transição de carreira, e busco uma qualidade de vida melhor, pois  se que o trabalho como esenvolvedor pode me proporcionar isso. 
-- 👨‍💻 Atualmente eu estudo Js no curso One Bit Code.
+- 👨‍💻 Atualmente eu estudo  no curso One Bit Code.
+- 👨‍🎓 Faço faculdade Análise e Desenvolvimento de Sistemas.
 - 🌎 Moro no Rio de Janeiro - RJ. 
 - 😄 Pronomes: Ele/Dele,
 - 🙋‍♂️ Tenho 22 anos. 
