@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Jhonatan Amaral.
 
-- 😄 Pronomes: Ele/Dele
-- ⚡ Fun fact: gosto de cachorros. 
+- 👨‍💻 Atualmente eu estudo Js, no curso One Bit Code.
+- Estou em transição de carreira. 
+- - 😄 Pronomes: Ele/Dele
+
 
 
 ##
