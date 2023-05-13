@@ -2,7 +2,7 @@
 
 - 👨‍💻 Atualmente eu estudo Js, no curso One Bit Code.
 - Estou em transição de carreira. 
-- - 😄 Pronomes: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 
 
